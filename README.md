@@ -1,18 +1,21 @@
 ### Running the server
 
-### `cd server`
+```
+cd server
 
-### `npm install`
+npm install
 
-### `node_modules/sequelize-cli/lib/sequelize db:drop`
+node_modules/sequelize-cli/lib/sequelize db:drop
 
-### `node_modules/sequelize-cli/lib/sequelize db:create`
+node_modules/sequelize-cli/lib/sequelize db:create
 
-### `node_modules/sequelize-cli/lib/sequelize db:migrate`
+node_modules/sequelize-cli/lib/sequelize db:migrate
 
-### `node_modules/sequelize-cli/lib/sequelize db:seed:all`
+node_modules/sequelize-cli/lib/sequelize db:seed:all
 
-### `npm start`
+npm start
+
+```
 
 # Getting Started with Create React App
 
