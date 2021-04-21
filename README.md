@@ -1,3 +1,19 @@
+### Running the server
+
+### `cd server`
+
+### `npm install`
+
+### `node_modules/sequelize-cli/lib/sequelize db:drop`
+
+### `node_modules/sequelize-cli/lib/sequelize db:create`
+
+### `node_modules/sequelize-cli/lib/sequelize db:migrate`
+
+### `node_modules/sequelize-cli/lib/sequelize db:seed:all`
+
+### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
